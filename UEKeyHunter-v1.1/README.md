@@ -8,7 +8,7 @@
 
 ## 环境要求
 
-- **Node.js 18+**（只要这一个）。`run.bat` 会自动在 PATH、常见安装目录、`%USERPROFILE%\.dsh\dsh-runtimes\*` 里找；都不行就在工具目录新建 `node-path.txt`，写一行 node.exe 的完整路径。
+- **Node.js **（只要这一个）。`run.bat` 会自动在 PATH、常见安装目录、`%USERPROFILE%\.dsh\dsh-runtimes\*` 里找；都不行就在工具目录新建 `node-path.txt`，写一行 node.exe 的完整路径。
 - 抓内存那步用到 `powershell`（Windows 自带 5.1 就够）。
 
 ---
