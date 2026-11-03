@@ -1,0 +1,8 @@
+{
+  "game": "D:\\Games\\SomeGame",
+  "exe": "D:\\Games\\SomeGame\\SomeGame\\Binaries\\Win64\\SomeGame-Win64-Shipping.exe",
+  "pak": "D:\\Games\\SomeGame\\SomeGame\\Content\\Paks\\SomeGame-WindowsNoEditor.pak",
+  "utoc": "D:\\Games\\SomeGame\\SomeGame\\Content\\Paks\\SomeGame-WindowsNoEditor.utoc",
+  "ucas": "D:\\Games\\SomeGame\\SomeGame\\Content\\Paks\\SomeGame-WindowsNoEditor.ucas",
+  "process": "SomeGame-Win64-Shipping"
+}
